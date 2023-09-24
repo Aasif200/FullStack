@@ -13,4 +13,4 @@ The backend should be built using Nest.js and should include the following:
 o Submitting a new form
 o Retrieving a previously submitted form based on the username
 o Updating an existing form
-2. Database Connection: Implement a database connection for storing form submissions. This could be a SQL or NoSQL database, depending on your preference
+2. Database Connection: Implement a database connection for storing form submissions. This could be MongoDB database
